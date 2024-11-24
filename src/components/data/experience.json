@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "role": "Software Test Engineer",
+    "organisation": "Meon Technology Pvt. Ltd.",
+    "startDate": "July, 2024",
+    "endDate": "Present",
+    "location": "Noida sector-62",
+    "experiences": [
+      "Worked on kyc and rekyc product",
+      "Worked with the product team "
+    ],
+    "imageSrc": "company/meon.png"
+  },
+  {
+    "id": 2,
+    "role": "Frontend Developer Intern",
+    "organisation": "Cloud Counselage Pvt. Ltd.",
+    "startDate": "July, 2024",
+    "endDate": "Sep, 2024",
+    "location": "Work From Home , Remote Intern",
+    "experiences": [
+      "Worked on E-Commerce Website",
+      "Worked on ReactJs "
+    ],
+    "imageSrc": "company/cloud.png"
+  }
+  
+]

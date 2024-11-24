@@ -1,0 +1,59 @@
+[
+  {
+    "key": 1,
+    "title": "Travel Website",
+    "imageSrc": "https://cdn.pixabay.com/photo/2018/02/04/17/39/crypto-currency-3130381_640.jpg",
+    "description": "Developed a dynamic web application using HTML, CSS, and JavaScript to create a user friendly platform for travelers to discover and explore various destinations.",
+    "demo": "https://resonant-mousse-c889d4.netlify.app/",
+    "source": "https://github.com/ashishgupta7518/Travel-Website-project-"
+  },
+  
+  {
+    "key": 2,
+    "title": "Calculator using JS",
+    "imageSrc": "https://cdn.pixabay.com/photo/2016/08/16/17/12/skyscrapers-1598418_640.jpg",
+    "description": "A simple, interactive calculator built using JavaScript, HTML, and CSS, designed to perform basic arithmetic operations with a user-friendly interface.",
+    "demo": "https://github.com/ashishgupta7518/Javascript-basic-and-Api-project/tree/main/Simple-Calculator-using-js",
+    "source": "https://github.com/ashishgupta7518/Javascript-basic-and-Api-project/tree/main/Simple-Calculator-using-js"
+  },
+  {
+    "key": 3,
+    "title": "Memes Generator",
+    "imageSrc": "https://cdn.pixabay.com/photo/2021/03/02/01/07/cyberpunk-6061251_640.jpg",
+    "description": "A fun and interactive meme generator built with JavaScript, HTML, and CSS and API handling.",
+    "demo": "https://github.com/ashishgupta7518/Javascript-basic-and-Api-project/tree/main/meme-generator-using-js",
+    "source": "https://github.com/ashishgupta7518/Javascript-basic-and-Api-project/tree/main/meme-generator-using-js"
+  },
+  {
+    "key": 4,
+    "title": "Image Search App",
+    "imageSrc": "https://cdn.pixabay.com/photo/2021/03/02/01/07/cyberpunk-6061251_640.jpg",
+    "description": "It allows users to search for images and displays results dynamically, showcasing efficient API handling and user-centered design.",
+    "demo": "https://github.com/ashishgupta7518/Image-Search-application-using-js",
+    "source": "https://github.com/ashishgupta7518/Image-Search-application-using-js"
+  },
+  {
+    "key": 5,
+    "title": "Nutrition Website",
+    "imageSrc": "https://cdn.pixabay.com/photo/2021/03/02/01/07/cyberpunk-6061251_640.jpg",
+    "description": "A feature-rich clone of a nutrition website built with WordPress, designed to provide users with engaging content on health and nutrition.",
+    "demo": "https://super-heliotrope-e36572.netlify.app/",
+    "source": "https://super-heliotrope-e36572.netlify.app/"
+  },
+  {
+    "key": 6,
+    "title": "News Search App",
+    "imageSrc": "https://cdn.pixabay.com/photo/2021/03/02/01/07/cyberpunk-6061251_640.jpg",
+    "description": "Practice of fetch Api in Javascript.",
+    "demo": "https://github.com/ashishgupta7518/News-Search-App-Using-Javascript",
+    "source": "https://github.com/ashishgupta7518/News-Search-App-Using-Javascript"
+  },
+  {
+    "key": 7,
+    "title": "iCoder website",
+    "imageSrc": "https://cdn.pixabay.com/photo/2017/05/02/15/30/streets-2278471_640.jpg",
+    "description": "Developed a dynamic web application using Bootstrap to create a user friendly platform .",
+    "demo": "https://rococo-mochi-1ace46.netlify.app/",
+    "source": "https://github.com/ashishgupta7518/Bootstrap-project"
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "title": "HTML",
+    "imageSrc": "skills/html.png"
+  },
+  {
+    "title": "CSS",
+    "imageSrc": "skills/css.png"
+  },
+  {
+    "title": "JavaScript",
+    "imageSrc": "skills/javascript.png"
+  },
+  {
+    "title": "React",
+    "imageSrc": "skills/react.png"
+  },
+  {
+    "title": "C++",
+    "imageSrc": "skills/c++.png"
+  },
+  {
+    "title":"Bootstrap",
+    "imageSrc":"skills/bootstrap.png"
+  },
+  {
+    "title": "Tailwind Css",
+    "imageSrc": "skills/tailwind.png"
+  },
+  {
+    "title": "MongoDB",
+    "imageSrc": "skills/mongodb.png"
+  },
+  {
+    "title": "Wordpress",
+    "imageSrc": "skills/wordpress.png"
+  }
+]
